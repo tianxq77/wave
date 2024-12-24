@@ -1,0 +1,4 @@
+tensorflow
+numpy
+pywt
+h5py
